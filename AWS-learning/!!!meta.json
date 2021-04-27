@@ -1,0 +1,600 @@
+{
+	"formatVersion": 1,
+	"appVersion": "0.45.10",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "SEfwD0GSTxSi",
+			"notePath": [
+				"SEfwD0GSTxSi"
+			],
+			"title": "AWS-learning",
+			"notePosition": 70,
+			"prefix": null,
+			"isExpanded": 1,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [],
+			"format": "markdown",
+			"dirFileName": "AWS-learning",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "mnqZWo3l8vQJ",
+					"notePath": [
+						"SEfwD0GSTxSi",
+						"mnqZWo3l8vQJ"
+					],
+					"title": "Reading AWS Bill",
+					"notePosition": 0,
+					"prefix": null,
+					"isExpanded": 0,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "markdown",
+					"dataFileName": "Reading AWS Bill.md"
+				},
+				{
+					"isClone": false,
+					"noteId": "zW6AkZH6abSp",
+					"notePath": [
+						"SEfwD0GSTxSi",
+						"zW6AkZH6abSp"
+					],
+					"title": "AWS Fundamentals",
+					"notePosition": 10,
+					"prefix": null,
+					"isExpanded": 0,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "markdown",
+					"dataFileName": "AWS Fundamentals.md",
+					"dirFileName": "AWS Fundamentals",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "9OfqUJtSjc3P",
+							"notePath": [
+								"SEfwD0GSTxSi",
+								"zW6AkZH6abSp",
+								"9OfqUJtSjc3P"
+							],
+							"title": "AWS Regions",
+							"notePosition": 0,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "HSFJHgpbTr5Z",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "markdown",
+							"dataFileName": "AWS Regions.md",
+							"dirFileName": "AWS Regions",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "HSFJHgpbTr5Z",
+									"notePath": [
+										"SEfwD0GSTxSi",
+										"zW6AkZH6abSp",
+										"9OfqUJtSjc3P",
+										"HSFJHgpbTr5Z"
+									],
+									"title": "image.png",
+									"notePosition": 0,
+									"prefix": null,
+									"isExpanded": 0,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "5HvsyiKczILN",
+							"notePath": [
+								"SEfwD0GSTxSi",
+								"zW6AkZH6abSp",
+								"5HvsyiKczILN"
+							],
+							"title": "IAM",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "IAM.md",
+							"dirFileName": "IAM",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "oIfo3BTzZX8v",
+									"notePath": [
+										"SEfwD0GSTxSi",
+										"zW6AkZH6abSp",
+										"5HvsyiKczILN",
+										"oIfo3BTzZX8v"
+									],
+									"title": "IAM 101 Brain Dump",
+									"notePosition": 0,
+									"prefix": null,
+									"isExpanded": 0,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "markdown",
+									"dataFileName": "IAM 101 Brain Dump.md"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "UETCVa788wbk",
+							"notePath": [
+								"SEfwD0GSTxSi",
+								"zW6AkZH6abSp",
+								"UETCVa788wbk"
+							],
+							"title": "EC2",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "EC2.md",
+							"dirFileName": "EC2",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "oHLWmUWcLvMr",
+									"notePath": [
+										"SEfwD0GSTxSi",
+										"zW6AkZH6abSp",
+										"UETCVa788wbk",
+										"oHLWmUWcLvMr"
+									],
+									"title": "Hands On: Launghing an EC2 instance running Linux",
+									"notePosition": 0,
+									"prefix": null,
+									"isExpanded": 0,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "markdown",
+									"dataFileName": "Hands On Launghing an EC2 instance running Linux.md"
+								},
+								{
+									"isClone": false,
+									"noteId": "THGum1KFOmC1",
+									"notePath": [
+										"SEfwD0GSTxSi",
+										"zW6AkZH6abSp",
+										"UETCVa788wbk",
+										"THGum1KFOmC1"
+									],
+									"title": "Intro to Security Groups",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": 0,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "imageLink",
+											"value": "qShj9kTRARsZ",
+											"isInheritable": false,
+											"position": 1
+										},
+										{
+											"type": "relation",
+											"name": "imageLink",
+											"value": "qGwgdGzNJ4c3",
+											"isInheritable": false,
+											"position": 3
+										}
+									],
+									"format": "markdown",
+									"dataFileName": "Intro to Security Groups.md",
+									"dirFileName": "Intro to Security Groups",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "qShj9kTRARsZ",
+											"notePath": [
+												"SEfwD0GSTxSi",
+												"zW6AkZH6abSp",
+												"UETCVa788wbk",
+												"THGum1KFOmC1",
+												"qShj9kTRARsZ"
+											],
+											"title": "image.png",
+											"notePosition": 0,
+											"prefix": null,
+											"isExpanded": 0,
+											"type": "image",
+											"mime": "image/jpg",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "originalFileName",
+													"value": "image.png",
+													"isInheritable": false,
+													"position": 1000
+												}
+											],
+											"dataFileName": "image.png"
+										},
+										{
+											"isClone": false,
+											"noteId": "ADYOIttsgOrT",
+											"notePath": [
+												"SEfwD0GSTxSi",
+												"zW6AkZH6abSp",
+												"UETCVa788wbk",
+												"THGum1KFOmC1",
+												"ADYOIttsgOrT"
+											],
+											"title": "image.png",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": 0,
+											"type": "image",
+											"mime": "image/jpg",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "originalFileName",
+													"value": "image.png",
+													"isInheritable": false,
+													"position": 1000
+												}
+											],
+											"dataFileName": "1_image.png"
+										},
+										{
+											"isClone": false,
+											"noteId": "qGwgdGzNJ4c3",
+											"notePath": [
+												"SEfwD0GSTxSi",
+												"zW6AkZH6abSp",
+												"UETCVa788wbk",
+												"THGum1KFOmC1",
+												"qGwgdGzNJ4c3"
+											],
+											"title": "image.png",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": 0,
+											"type": "image",
+											"mime": "image/jpg",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "originalFileName",
+													"value": "image.png",
+													"isInheritable": false,
+													"position": 1000
+												}
+											],
+											"dataFileName": "2_image.png"
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "CKME9tYboJ4b",
+									"notePath": [
+										"SEfwD0GSTxSi",
+										"zW6AkZH6abSp",
+										"UETCVa788wbk",
+										"CKME9tYboJ4b"
+									],
+									"title": "Public vs Public IP (IPv4)",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": 0,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "imageLink",
+											"value": "PAufI3MDhQYX",
+											"isInheritable": false,
+											"position": 1
+										}
+									],
+									"format": "markdown",
+									"dataFileName": "Public vs Public IP (IPv4).md",
+									"dirFileName": "Public vs Public IP (IPv4)",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "PAufI3MDhQYX",
+											"notePath": [
+												"SEfwD0GSTxSi",
+												"zW6AkZH6abSp",
+												"UETCVa788wbk",
+												"CKME9tYboJ4b",
+												"PAufI3MDhQYX"
+											],
+											"title": "image.png",
+											"notePosition": 0,
+											"prefix": null,
+											"isExpanded": 0,
+											"type": "image",
+											"mime": "image/jpg",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "originalFileName",
+													"value": "image.png",
+													"isInheritable": false,
+													"position": 1000
+												}
+											],
+											"dataFileName": "image.png"
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "XKwFSzLpf1Q1",
+									"notePath": [
+										"SEfwD0GSTxSi",
+										"zW6AkZH6abSp",
+										"UETCVa788wbk",
+										"XKwFSzLpf1Q1"
+									],
+									"title": "Elastic IPs",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": 0,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "markdown",
+									"dataFileName": "Elastic IPs.md"
+								},
+								{
+									"isClone": false,
+									"noteId": "jIqjDKywe6Va",
+									"notePath": [
+										"SEfwD0GSTxSi",
+										"zW6AkZH6abSp",
+										"UETCVa788wbk",
+										"jIqjDKywe6Va"
+									],
+									"title": "EC2 User Data",
+									"notePosition": 40,
+									"prefix": null,
+									"isExpanded": 0,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "markdown",
+									"dataFileName": "EC2 User Data.md"
+								},
+								{
+									"isClone": false,
+									"noteId": "cqYR3jSuJmUV",
+									"notePath": [
+										"SEfwD0GSTxSi",
+										"zW6AkZH6abSp",
+										"UETCVa788wbk",
+										"cqYR3jSuJmUV"
+									],
+									"title": "EC2 Launch Types",
+									"notePosition": 50,
+									"prefix": null,
+									"isExpanded": 0,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "markdown",
+									"dataFileName": "EC2 Launch Types.md",
+									"dirFileName": "EC2 Launch Types",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "J7fKHTkpbDPn",
+											"notePath": [
+												"SEfwD0GSTxSi",
+												"zW6AkZH6abSp",
+												"UETCVa788wbk",
+												"cqYR3jSuJmUV",
+												"J7fKHTkpbDPn"
+											],
+											"title": "On Demand",
+											"notePosition": 0,
+											"prefix": null,
+											"isExpanded": 0,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "markdown",
+											"dataFileName": "On Demand.md"
+										},
+										{
+											"isClone": false,
+											"noteId": "fQbPZZoMVIkd",
+											"notePath": [
+												"SEfwD0GSTxSi",
+												"zW6AkZH6abSp",
+												"UETCVa788wbk",
+												"cqYR3jSuJmUV",
+												"fQbPZZoMVIkd"
+											],
+											"title": "Reserved Instances",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": 0,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "markdown",
+											"dataFileName": "Reserved Instances.md"
+										},
+										{
+											"isClone": false,
+											"noteId": "5V5lYi6QkSIf",
+											"notePath": [
+												"SEfwD0GSTxSi",
+												"zW6AkZH6abSp",
+												"UETCVa788wbk",
+												"cqYR3jSuJmUV",
+												"5V5lYi6QkSIf"
+											],
+											"title": "Spot Instances",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": 0,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "markdown",
+											"dataFileName": "Spot Instances.md"
+										},
+										{
+											"isClone": false,
+											"noteId": "cKtSmIiKqoog",
+											"notePath": [
+												"SEfwD0GSTxSi",
+												"zW6AkZH6abSp",
+												"UETCVa788wbk",
+												"cqYR3jSuJmUV",
+												"cKtSmIiKqoog"
+											],
+											"title": "Dedicated Host",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": 0,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "markdown",
+											"dataFileName": "Dedicated Host.md"
+										},
+										{
+											"isClone": false,
+											"noteId": "hCRL8ZrWPDKL",
+											"notePath": [
+												"SEfwD0GSTxSi",
+												"zW6AkZH6abSp",
+												"UETCVa788wbk",
+												"cqYR3jSuJmUV",
+												"hCRL8ZrWPDKL"
+											],
+											"title": "Dedicated Instances",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": 0,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "markdown",
+											"dataFileName": "Dedicated Instances.md"
+										},
+										{
+											"isClone": false,
+											"noteId": "fH0UKJDf3utB",
+											"notePath": [
+												"SEfwD0GSTxSi",
+												"zW6AkZH6abSp",
+												"UETCVa788wbk",
+												"cqYR3jSuJmUV",
+												"fH0UKJDf3utB"
+											],
+											"title": "Which host is right for me",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": 0,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "markdown",
+											"dataFileName": "Which host is right for me.md"
+										},
+										{
+											"isClone": false,
+											"noteId": "s6fQZuaLlmME",
+											"notePath": [
+												"SEfwD0GSTxSi",
+												"zW6AkZH6abSp",
+												"UETCVa788wbk",
+												"cqYR3jSuJmUV",
+												"s6fQZuaLlmME"
+											],
+											"title": "Price comparison",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": 0,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "J7fKHTkpbDPn",
+													"isInheritable": false,
+													"position": 1
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "fQbPZZoMVIkd",
+													"isInheritable": false,
+													"position": 2
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "5V5lYi6QkSIf",
+													"isInheritable": false,
+													"position": 3
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "cKtSmIiKqoog",
+													"isInheritable": false,
+													"position": 4
+												}
+											],
+											"format": "markdown",
+											"dataFileName": "Price comparison.md"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,451 @@
+{
+	"formatVersion": 1,
+	"appVersion": "0.45.10",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "oxHkIE6Wwlzp",
+			"notePath": [
+				"oxHkIE6Wwlzp"
+			],
+			"title": "Elastic-Notes",
+			"notePosition": 60,
+			"prefix": null,
+			"isExpanded": 0,
+			"type": "book",
+			"mime": "",
+			"attributes": [],
+			"dirFileName": "Elastic-Notes",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "QKLI2dAhlsoN",
+					"notePath": [
+						"oxHkIE6Wwlzp",
+						"QKLI2dAhlsoN"
+					],
+					"title": "Architechture",
+					"notePosition": 0,
+					"prefix": null,
+					"isExpanded": 0,
+					"type": "book",
+					"mime": "",
+					"attributes": [],
+					"dirFileName": "Architechture",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "yQy1TzCBPU4n",
+							"notePath": [
+								"oxHkIE6Wwlzp",
+								"QKLI2dAhlsoN",
+								"yQy1TzCBPU4n"
+							],
+							"title": "Sharding",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "Sharding.md",
+							"dirFileName": "Sharding",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "9saMBa9oG5PO",
+									"notePath": [
+										"oxHkIE6Wwlzp",
+										"QKLI2dAhlsoN",
+										"yQy1TzCBPU4n",
+										"9saMBa9oG5PO"
+									],
+									"title": "Replication",
+									"notePosition": 0,
+									"prefix": null,
+									"isExpanded": 0,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "markdown",
+									"dataFileName": "Replication.md"
+								},
+								{
+									"isClone": false,
+									"noteId": "mD3egG7IgogF",
+									"notePath": [
+										"oxHkIE6Wwlzp",
+										"QKLI2dAhlsoN",
+										"yQy1TzCBPU4n",
+										"mD3egG7IgogF"
+									],
+									"title": "Node Roles",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": 0,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "markdown",
+									"dataFileName": "Node Roles.md"
+								}
+							]
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "mDMqNa9DGs9k",
+					"notePath": [
+						"oxHkIE6Wwlzp",
+						"mDMqNa9DGs9k"
+					],
+					"title": "Document Managment",
+					"notePosition": 10,
+					"prefix": null,
+					"isExpanded": 0,
+					"type": "book",
+					"mime": "",
+					"attributes": [],
+					"dirFileName": "Document Managment",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "Ns8GXlFv9ptt",
+							"notePath": [
+								"oxHkIE6Wwlzp",
+								"mDMqNa9DGs9k",
+								"Ns8GXlFv9ptt"
+							],
+							"title": "Queries",
+							"notePosition": 0,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "Queries.md"
+						},
+						{
+							"isClone": false,
+							"noteId": "BbVe6jejBBwc",
+							"notePath": [
+								"oxHkIE6Wwlzp",
+								"mDMqNa9DGs9k",
+								"BbVe6jejBBwc"
+							],
+							"title": "Backend",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "Backend.md"
+						},
+						{
+							"isClone": false,
+							"noteId": "CPiJupC90CK2",
+							"notePath": [
+								"oxHkIE6Wwlzp",
+								"mDMqNa9DGs9k",
+								"CPiJupC90CK2"
+							],
+							"title": "Understanding Routing",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "ZU6xsbYDDvh0",
+									"isInheritable": false,
+									"position": 4
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "bqUxeSDhxlcw",
+									"isInheritable": false,
+									"position": 6
+								}
+							],
+							"format": "markdown",
+							"dataFileName": "Understanding Routing.md",
+							"dirFileName": "Understanding Routing",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "hOCbqpeBKotl",
+									"notePath": [
+										"oxHkIE6Wwlzp",
+										"mDMqNa9DGs9k",
+										"CPiJupC90CK2",
+										"hOCbqpeBKotl"
+									],
+									"title": "image.png",
+									"notePosition": 0,
+									"prefix": null,
+									"isExpanded": 0,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								},
+								{
+									"isClone": false,
+									"noteId": "ZU6xsbYDDvh0",
+									"notePath": [
+										"oxHkIE6Wwlzp",
+										"mDMqNa9DGs9k",
+										"CPiJupC90CK2",
+										"ZU6xsbYDDvh0"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": 0,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "1_image.png"
+								},
+								{
+									"isClone": false,
+									"noteId": "bqUxeSDhxlcw",
+									"notePath": [
+										"oxHkIE6Wwlzp",
+										"mDMqNa9DGs9k",
+										"CPiJupC90CK2",
+										"bqUxeSDhxlcw"
+									],
+									"title": "image.png",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": 0,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "2_image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "dHe4j4DWlicr",
+							"notePath": [
+								"oxHkIE6Wwlzp",
+								"mDMqNa9DGs9k",
+								"dHe4j4DWlicr"
+							],
+							"title": "How ES reads Data (a single document)",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "mopclQzDJGv2",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "markdown",
+							"dataFileName": "How ES reads Data (a single document).md",
+							"dirFileName": "How ES reads Data (a single document)",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "mopclQzDJGv2",
+									"notePath": [
+										"oxHkIE6Wwlzp",
+										"mDMqNa9DGs9k",
+										"dHe4j4DWlicr",
+										"mopclQzDJGv2"
+									],
+									"title": "image.png",
+									"notePosition": 0,
+									"prefix": null,
+									"isExpanded": 0,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "8zKGuylKySmJ",
+							"notePath": [
+								"oxHkIE6Wwlzp",
+								"mDMqNa9DGs9k",
+								"8zKGuylKySmJ"
+							],
+							"title": "How ES writes data",
+							"notePosition": 40,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "How ES writes data.md"
+						},
+						{
+							"isClone": false,
+							"noteId": "KAwCgTjwxYle",
+							"notePath": [
+								"oxHkIE6Wwlzp",
+								"mDMqNa9DGs9k",
+								"KAwCgTjwxYle"
+							],
+							"title": "Document Versioning",
+							"notePosition": 50,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "xFwlHtbNt4l1",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "markdown",
+							"dataFileName": "Document Versioning.md",
+							"dirFileName": "Document Versioning",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "xFwlHtbNt4l1",
+									"notePath": [
+										"oxHkIE6Wwlzp",
+										"mDMqNa9DGs9k",
+										"KAwCgTjwxYle",
+										"xFwlHtbNt4l1"
+									],
+									"title": "image.png",
+									"notePosition": 0,
+									"prefix": null,
+									"isExpanded": 0,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "2HvrFHIVTU2i",
+							"notePath": [
+								"oxHkIE6Wwlzp",
+								"mDMqNa9DGs9k",
+								"2HvrFHIVTU2i"
+							],
+							"title": "Optimistic concurrenct control",
+							"notePosition": 60,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "11Z9srg3ilCV",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "markdown",
+							"dataFileName": "Optimistic concurrenct control.md",
+							"dirFileName": "Optimistic concurrenct control",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "11Z9srg3ilCV",
+									"notePath": [
+										"oxHkIE6Wwlzp",
+										"mDMqNa9DGs9k",
+										"2HvrFHIVTU2i",
+										"11Z9srg3ilCV"
+									],
+									"title": "image.png",
+									"notePosition": 0,
+									"prefix": null,
+									"isExpanded": 0,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
